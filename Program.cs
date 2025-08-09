@@ -13,7 +13,7 @@ namespace STUDIES
             Console.WriteLine("Типы данных: Целые числа.");
             //Типы данных
 
-            byte a =  byte.MaxValue;
+            byte a = byte.MaxValue;
             byte a1 = byte.MinValue;
             Console.WriteLine($"byte:\n{a}\n {a1}\n");
 
@@ -77,3 +77,4 @@ namespace STUDIES
             Console.WriteLine("Скорее всего, какие-то типы данных я пропустил...");
         }
     }
+}
